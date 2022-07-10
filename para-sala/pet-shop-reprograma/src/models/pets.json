@@ -1,22 +1,42 @@
 [
     {
-        "id": 1,
-        "nomeFantasia": "Pet Shop 1",
-        "endereco": "Avenida Paulista, 1273 - Sao Paulo",
-        "telefone": "11 12345-6789",
-        "atende": [
+        "id":1,
+        "nomeFantasia":"Pet Shop 1",
+        "endereco":"Avenida Paulista, 1273 - Sao Paulo",
+        "telefone":"11 12345-6789",
+        "atende":[
             "caes",
             "gatos"
-        ]
+             ]
     },
     {
-        "id": 2,
-        "nomeFantasia": "Pet Shop 2",
-        "endereco": "Recife, 1273 - Pernambuco",
-        "telefone": "11 98765-4321",
-        "atende": [
+        "id":2,
+        "nomeFantasia":"Pet Shop 2",
+        "endereco":"Recife, 1273 - Pernambuco",
+        "telefone":"11 98765-4321",
+        "atende":[
             "caes",
             "papagaio"
+            ]
+    },
+    {
+       "id":3,
+       "nomeFantasia":"Pet Shop Repro2",
+       "endereco":"Minha Casahhhh2",
+       "telefone":925842852,
+       "atende":[
+           "caracol",
+           "fadinhas2"
+        
+          ]
+    },
+    {
+
+    "id":4,"endereco":"Avenida Paulista, 1273 - Sao Paulo",
+    "telefone":"11 12345-6789",
+    "atende":[
+        "caes",
+        "gatos"
         ]
     }
 ]
